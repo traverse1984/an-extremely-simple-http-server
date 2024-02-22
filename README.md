@@ -4,6 +4,8 @@ This **extremely simple http server** allows you to start a timer and then check
 
 ## Usage
 
+First, run the `build.sh` to build the docker container. You can then make run the container with `run.sh`.
+
 -  Send a POST request to start (or re-start) the battery timer;
 -  Send a GET request to see the current status.
 
