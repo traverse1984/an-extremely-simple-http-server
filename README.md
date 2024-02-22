@@ -15,8 +15,8 @@ All responses have the following format:
 
 ```js
 {
-   status: boolean;
-   message: string;
+   status: boolean,
+   message: string,
 }
 ```
 
